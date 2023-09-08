@@ -13,7 +13,7 @@ function Produtos(){
                 <p>PS5 Slim</p>
             </div>
             <div>
-                <img src='src/assets/pery.png' width={400} height={250}></img>
+                <img src='src/assets/perry2.png' width={400} height={250}></img>
                 <p>Pery o ornintorrinco</p>
             </div>
             <div>
