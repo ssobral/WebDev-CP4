@@ -4,7 +4,7 @@ function Footer(){
 
     return(
         <>
-        <p>Tel: 11 1234-5678 Email: gmail@gmail.com</p>        
+        <p>Tel: 11 1234-5678 Email: email@gmail.com</p>        
         </>
     )
 }
