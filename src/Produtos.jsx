@@ -5,12 +5,12 @@ function Produtos(){
     return(
         <>
             <div>
-                <img src='src/assets/parque.jpg' width={400} height={250}></img>
-                <p>Parque</p>
+                <img src='src/assets/bob.png.jpg' width={400} height={250}></img>
+                <p>Casa do bob esponja</p>
             </div>
             <div>
-                <img src='src/assets/PS5-Slim.png' width={400} height={250}></img>
-                <p>PS5 Slim</p>
+                <img src='src/assets/suricatinho bebe.png.jpg' width={400} height={250}></img>
+                <p>Suricatinho</p>
             </div>
             <div>
                 <img src='src/assets/perry2.png' width={400} height={250}></img>
