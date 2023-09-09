@@ -5,10 +5,9 @@ import Produtos from './Produtos'
 import Sobre from './Sobre'
 import Footer from './Footer'
 import { BrowserRouter, Routes,Route } from 'react-router-dom'
+import './App.css'
 
 function App() {
-
-
   return (
     <>
       <BrowserRouter>

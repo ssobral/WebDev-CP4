@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;700&family=Poppins:wght@400;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.nav-lista{
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+    background-color: #2D9471;
+}
+
+.nav-item{
+    font-size: 30px;
+    text-decoration: none;
+    color: #FFFFFF;
+    font-family: 'Poppins';
+}
+
+.footer-container{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    background-color: #2D9471;
+    height: 45px;
+    align-items: center;
+}
+
+.footer-dados{
+    font-size: 16px;
+    font-family: 'Poppins';
+    color: #FFFFFF;
+}
+
+.home-container{
+    height: 90.2vh;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: #262626;
+}
+
+.home-titulo{
+    font-family: "Josefin Sans";
+    color:#FFFFFF;
+    font-size: 4rem;
+    margin: 2rem;
+    font-weight: 700;
+}
+
+.home-texto{
+    font-size: 16px;
+    font-family: "Poppins";
+    color:#FFFFFF;
+    margin: 0 20rem;
+}
+
+.produtos-container{
+    height: 90.2vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    background-color: #262626;
+}
+
+.produtos-section{
+    display: flex;
+    margin: 2rem;
+}
+
+.produtos-item{
+    padding: 2rem;
+    border: 2px solid #2D9471;
+    border-radius: 10px;
+}
+
+.produtos-imagem{
+    width: 400px;
+    height: 250px;
+}
+
+.produtos-titulo{
+    font-size: 20px;
+    font-family: "Poppins";
+    color: #FFFFFF;
+
+}
+
+.sobre-container{
+    height: 90.2vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #262626;
+}
+
+.sobre-imagem{
+    margin: 3rem;
+    width: 600px;
+    height: auto;
+}
+
+.sobre-texto{
+    font-size: 16px;
+    font-family: "Poppins";
+    color:#FFFFFF;
+    margin: 0 20rem;
+}
